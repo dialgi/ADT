@@ -1,7 +1,5 @@
 #include <iostream>
-//DIALGI ANAQAH
-//4212
-//A11.2022.14463
+//14463
 using namespace std;
 
 struct hitung{
